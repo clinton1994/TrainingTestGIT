@@ -39,5 +39,17 @@ namespace ConsoleApp1
             Console.ReadLine();
            
         }
-    }
+        public void NewFeature1()
+        {
+            Console.WriteLine("This is my new feature");
+
+
+        }
+            public void NewFeature2()
+            {
+                Console.WriteLine("This is my new feature");
+
+
+            }
+        }
 }
